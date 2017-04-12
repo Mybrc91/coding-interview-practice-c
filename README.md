@@ -1,1 +1,2 @@
-# coding-interview-practice-c
+# practice-c
+Daily plan for studying C.
